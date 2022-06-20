@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/interview/static/css/main.ad5f58c4.css",
+    "main.js": "/interview/static/js/main.38837f38.js",
+    "static/media/Frame2.png": "/interview/static/media/Frame2.f364c1876bba279489a4.png",
+    "static/media/Rectangle.png": "/interview/static/media/Rectangle.bced44b53527beb262e7.png",
+    "static/media/Rectangle 2.png": "/interview/static/media/Rectangle 2.bf3582d4a236284f99e5.png",
+    "static/media/R3.png": "/interview/static/media/R3.bc155041b6717348bdaa.png",
+    "static/media/Rectangle 1.png": "/interview/static/media/Rectangle 1.729e1fbee460b0531b9a.png",
+    "static/media/Rectangle 3.png": "/interview/static/media/Rectangle 3.9447f78c3be4cf0ea2f8.png",
+    "static/media/Rectangle (1).png": "/interview/static/media/Rectangle (1).686e75bf98f8598c1f30.png",
+    "static/media/R1.png": "/interview/static/media/R1.d709663e97c6c3769b3e.png",
+    "static/media/R2.png": "/interview/static/media/R2.62d1e66fa39e9554cd50.png",
+    "static/media/image1.png": "/interview/static/media/image1.2e8df4674631f57f2551.png",
+    "static/media/Rectangle4.png": "/interview/static/media/Rectangle4.30be244e460e921d7f3d.png",
+    "index.html": "/interview/index.html",
+    "main.ad5f58c4.css.map": "/interview/static/css/main.ad5f58c4.css.map",
+    "main.38837f38.js.map": "/interview/static/js/main.38837f38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5f58c4.css",
+    "static/js/main.38837f38.js"
+  ]
+}
